@@ -5,4 +5,8 @@
     echo $count;
     $count++;
   }
+  test();
+  test();
+  test();
+  test();
 ?>
